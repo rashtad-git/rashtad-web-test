@@ -1,0 +1,3592 @@
+{
+  "weapon": [
+    {
+      "name": "불길",
+      "tier": "시즌1 전설",
+      "slot": "weapon",
+      "description": "치명타 확률이 18/20/22% 증가한다.\n공격 적중 시, (공격력×356%)의 지속 피해: 화상을 준다.(재사용 대기 시간: 10초)",
+      "effects": [
+        {
+          "stat_type": "치명타 확률",
+          "values": {
+            "constant": "18",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "결정",
+      "tier": "시즌1 전설",
+      "slot": "weapon",
+      "description": "추가타 확률이 18/20/22% 증가한다.\n공격 적중 시, (공격력×356%)의 지속 피해: 빙결을 준다.(재사용 대기 시간: 10초)",
+      "effects": [
+        {
+          "stat_type": "추가타 확률",
+          "values": {
+            "constant": "18",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "뇌명",
+      "tier": "시즌1 전설",
+      "slot": "weapon",
+      "description": "강타 피해가 20/22/% 증가한다.\n공격 적중 시, (공격력×356%)의 지속 피해: 감전을 준다.(재사용 대기 시간: 10초)",
+      "effects": [
+        {
+          "stat_type": "강타 피해",
+          "values": {
+            "constant": "20",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "독사+",
+      "tier": "시즌1 전설",
+      "slot": "weapon",
+      "description": "연타 피해가 20/22/% 증가한다.\n공격 적중 시, (공격력×356%)의 지속 피해: 중독을 준다.(재사용 대기 시간: 10초)",
+      "effects": [
+        {
+          "stat_type": "연타 피해",
+          "values": {
+            "constant": "20",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "공포",
+      "tier": "시즌1 전설",
+      "slot": "weapon",
+      "description": "치명타 피해가 18/20/22% 증가한다.\n공격 적중 시, (공격력×356%)의 지속 피해: 절망을 준다.(재사용 대기 시간: 10초)",
+      "effects": [
+        {
+          "stat_type": "치명타 피해",
+          "values": {
+            "constant": "18",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "집행자",
+      "tier": "시즌1 전설",
+      "slot": "weapon",
+      "description": "치유량이 20%, 적에게 주는 피해가 10/12/% 증가한다.\n공격 적중 시, (공격력×533%)의 지속 피해: 심판을 준다.(재사용 대기 시간: 10초)",
+      "effects": [
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "10",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "치유량",
+          "values": {
+            "constant": "20",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "야수+",
+      "tier": "시즌1 전설",
+      "slot": "weapon",
+      "description": "적에게 주는 피해가 20/22/24% 증가한다.\n공격 적중 시, (공격력×356%)의 지속 피해: 상처를 준다.(재사용 대기 시간: 10초)",
+      "effects": [
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "20",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "밤+",
+      "tier": "시즌1 전설",
+      "slot": "weapon",
+      "description": "공격력이 20/22/24% 증가한다.\n공격 적중 시, (공격력×356%)의 지속 피해: 두려움을 준다.(재사용 대기 시간: 10초)",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "20",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "투사+",
+      "tier": "시즌1 전설",
+      "slot": "weapon",
+      "description": "적에게 주는 피해가 33/35/% 증가한다.\n결함: 멀티히트 피해가 10/8/% 감소한다.",
+      "effects": [
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "33",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "결함",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "멀티히트 피해",
+          "values": {
+            "constant": "-10",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "결함",
+            "category": "결함",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "은둔자+",
+      "tier": "시즌1 전설",
+      "slot": "weapon",
+      "description": "스킬 피해량이 30/31.5/33% 증가한다.\n결함: 재사용 대기 시간 회복 속도가 9/7/5% 감소한다.",
+      "effects": [
+        {
+          "stat_type": "스킬 피해",
+          "values": {
+            "constant": "30",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "결함",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "쿨타임 속도",
+          "values": {
+            "constant": "-9",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "결함",
+            "category": "결함",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "망각",
+      "tier": "시즌1 전설",
+      "slot": "weapon",
+      "description": "공격력이 19/21/23% 증가한다.\n기본 공격 적중 시, 모든 스킬의 재사용 대기 시간이 9% 감소한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "19",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "쿨타임",
+          "values": {
+            "constant": "9",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "서리바람",
+      "tier": "시즌1 전설",
+      "slot": "weapon",
+      "description": "공격력이 20/22/% 증가하고, 캐스팅 및 차지 속도가 25% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "20",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "TRUE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "X",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "캐스팅/차지 속도",
+          "values": {
+            "constant": "25",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "TRUE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "X",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "옛 마법사",
+      "tier": "시즌1 전설",
+      "slot": "weapon",
+      "description": "재사용 대기 시간 회복 속도가 29/31/% 증가한다.\n결함: 적에게 주는 피해가 10/8/% 감소한다.",
+      "effects": [
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "-10",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "결함",
+            "category": "결함",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "쿨타임 속도",
+          "values": {
+            "constant": "29",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "결함",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "파괴자+",
+      "tier": "시즌1 전설",
+      "slot": "weapon",
+      "description": "공격력이 18/20/22% 증가하고, 무방비 피해가 48% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "18",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "무방비 피해",
+          "values": {
+            "constant": "48",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "검무+",
+      "tier": "시즌1 전설",
+      "slot": "weapon",
+      "description": "누적: 공격이 적중할 때마다 10초 동안 공격력이 2/2.2/2.4%, 치명타 확률이 1% 증가한다.\n해당 효과는 최대 10회까지 중첩되며 지속 시간은 스택마다 개별로 가진다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "20"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "누적",
+            "category": "누적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "치명타 확률",
+          "values": {
+            "constant": "0",
+            "growth": "10"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "누적",
+            "category": "누적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "무수한 궤적",
+      "tier": "시즌1 전설",
+      "slot": "weapon",
+      "description": "공격력이 17/19/21%, 공격 속도가 30% 증가하며, 기본 공격 추가타 확률이 30% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "17",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "마지막 자비",
+      "tier": "시즌1 전설",
+      "slot": "weapon",
+      "description": "공격력이 20/22/24% 증가한다.\n남은 체력이 50% 이하인 적을 공격했을 경우, 10초 동안 공격력이 추가로 20% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "20",
+            "growth": "20"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "종언+",
+      "tier": "시즌1 전설",
+      "slot": "weapon",
+      "description": "누적: 자신과 전투 중인 적이 처치되었을 경우, 공격력이 20초 동안 2% 증가한다. 해당 효과는 최대 10회까지 중첩되며 지속 시간은 스택마다 개별로 가진다.\n공격력이 24/26/% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "24",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "누적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "20"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "누적",
+            "category": "누적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "영웅",
+      "tier": "시즌1 전설",
+      "slot": "weapon",
+      "description": "공격력이 4.3/6.3/8.3%, 연타 피해, 강타 피해, 콤보 피해, 스킬 피해, 치명타 피해, 멀티 히트 피해가 각각 4.3% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "4.3",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "연타 피해",
+          "values": {
+            "constant": "4.3",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "강타 피해",
+          "values": {
+            "constant": "4.3",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "콤보 피해",
+          "values": {
+            "constant": "4.3",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "스킬 피해",
+          "values": {
+            "constant": "4.3",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "치명타 피해",
+          "values": {
+            "constant": "4.3",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "멀티히트 피해",
+          "values": {
+            "constant": "4.3",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "폭군",
+      "tier": "시즌1 전설",
+      "slot": "weapon",
+      "description": "전투 중, 1초마다 치명타 피해가 3.5%씩 증가한다. 이 효과는 최대 10회까지 중첩된다.\n결함: 치명타 적중 시, 효과 중첩을 1 잃는다.\n전투 시작 시, 10중첩을 즉시 획득한다.",
+      "effects": [
+        {
+          "stat_type": "치명타 피해",
+          "values": {
+            "constant": "0",
+            "growth": "35"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "결함",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "치명타 피해",
+          "values": {
+            "constant": "0",
+            "growth": "-35"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "결함",
+            "category": "결함",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "천체 정렬",
+      "tier": "시즌1 전설",
+      "slot": "weapon",
+      "description": "누적: 전투 시, 천체 정렬 효과를 얻어 10초마다 공격력과 적에게 주는 피해가 3%씩 증가한다. 이 효과는 최대 6회까지 중첩된다.\n최대 중첩에 도달할 경우 추가로 각 공격 시 선행 타격의 20% 만큼의 피해를 주는 추가 공격이 발생하며, 20초 뒤에 모든 중첩을 잃는다.\n전투 시작 시, 2중첩을 즉시 획득한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "18"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "누적",
+            "category": "누적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "0",
+            "growth": "18"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "누적",
+            "category": "누적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "만 갈래 물길",
+      "tier": "시즌1 신화",
+      "slot": "weapon",
+      "description": "공격력이 15% 증가한다. 클래스 레벨 50을 달성할 때마다 추가로 공격력이 1%씩 증가하며 해당 효과는 최대 20회까지 중첩된다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "35",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "흰 까마귀",
+      "tier": "시즌1 신화",
+      "slot": "weapon",
+      "description": "공격, 이동, 스킬 사용 속도, 캐스팅 및 차지 속도, 재사용 대기 시간 회복 속도가 10% 증가한다.\n장비를 +10 강화 시, 적에게 주는 피해가 7% 증가한다.\n장비를 +15 강화 시, 공격력 7%가 증가한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "7",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "7",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "스킬 사용 속도",
+          "values": {
+            "constant": "10",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "캐스팅/차지 속도",
+          "values": {
+            "constant": "10",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "쿨타임 속도",
+          "values": {
+            "constant": "10",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "메아리치는 진노",
+      "tier": "시즌1 신화",
+      "slot": "weapon",
+      "description": "연타 적중 시, 전방 넓은 범위의 적들에게 (공격력×110%)의 피해와 (공격력×35%)의 지속 피해: 빙결을 준다.\n강타 적중 시, 전방 넓은 범위의 적들에게 (공격력×110%)의 피해와 (공격력×35%)의 지속 피해: 화상을 준다.\n또한, 공격력이 5% 증가한다. 장비를 +10, +15 강화 시 각각 공격력이 3% 추가로 증가한다.\n(재사용 대기 시간: 각 8초)",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "11",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "무한",
+      "tier": "시즌1 신화",
+      "slot": "weapon",
+      "description": "기본 공격 사용 시, 모든 스킬의 재사용 대기 시간이 9% 감소한다.\n공격력이 20% 증가하며, 스킬 사용 시 5초 동안 공격 속도가 12% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "20",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "쿨타임",
+          "values": {
+            "constant": "0",
+            "growth": "-9"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    }
+  ],
+  "armor": [
+    {
+      "name": "여명+",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "누적: 스킬을 사용할 때마다 10초 동안 공격력이 3.5/3.8/4% 증가한다. 해당 효과는 최대 6회까지 중첩되며 지속 시간은 스택마다 개별로 가진다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "21"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "누적",
+            "category": "누적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "황혼",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "누적: 공격이 적중할 때마다 8초 동안 적에게 주는 피해가 1.4/1.6/1.7% 증가한다. 해당 효과는 최대 16회까지 중첩되며 지속 시간은 스택마다 개별로 가진다.",
+      "effects": [
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "0",
+            "growth": "22.4"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "누적",
+            "category": "누적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "바위감시자",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "축적: 강타 7회 적중 시, 6초 동안 공격력이 22/24/26% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "22"
+          },
+          "flags": {
+            "adoption": "3",
+            "option": "축적",
+            "category": "축적",
+            "transcendence": "2",
+            "transcendence_val": "4"
+          }
+        }
+      ]
+    },
+    {
+      "name": "쇄도+",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "스킬 사용 시, 25% 확률로 5초 동안 캐스팅 및 차지 속도와 스킬 사용 속도가 20/22/24% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "스킬 사용 속도",
+          "values": {
+            "constant": "0",
+            "growth": "20"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "캐스팅/차지 속도",
+          "values": {
+            "constant": "0",
+            "growth": "20"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "무도가+",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "공격력이 15/18/20% 증가하며, 궁극기 게이지 획득량이 20% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "15",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "해결사",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "적에게 주는 피해가 7% 증가한다.\n공격 속도가 30/33/36% 증가하며, 기본 공격의 추가타 확률이 30/33/36% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "7",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "들불",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "지속 피해: 화상을 보유한 적 공격 시, 5초 동안 치명타 확률이 14/16/18% 증가한다.(재사용 대기 시간: 3초)",
+      "effects": [
+        {
+          "stat_type": "치명타 확률",
+          "values": {
+            "constant": "0",
+            "growth": "14"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "설산",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "지속 피해: 빙결을 보유한 적 공격 시, 5초 동안 추가타 확률이 16/18/% 증가한다.(재사용 대기 시간: 3초)",
+      "effects": [
+        {
+          "stat_type": "추가타 확률",
+          "values": {
+            "constant": "0",
+            "growth": "16"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "절개+",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "지속 피해: 상처를 보유한 적 공격 시, 5초 동안 공격력이 20/22/24% 증가한다.(재사용 대기 시간: 3초)",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "20",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "환영",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "공격력이 18/20/% 증가한다.\n지속 피해: 두려움을 보유한 적 공격 시, 약화 효과: 방어구 파괴를 부여해 10초 동안 받는 피해를 10% 증가시킨다.(재사용 대기 시간: 3초)\n방어구 파괴는 중복 적용되지 않는다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "18",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "(적이)받는 피해",
+          "values": {
+            "constant": "0",
+            "growth": "10"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "황금들판",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "체력이 75% 이상일 경우, 공격력이 20/22/24% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "20",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "1",
+            "option": "X",
+            "category": "X",
+            "transcendence": "1",
+            "transcendence_val": "2"
+          }
+        }
+      ]
+    },
+    {
+      "name": "모래폭풍",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "스킬 사용 속도 및 공격 속도가 10/12/14% 증가한다.\n무방비 공격 적중 시, 10초 동안 스킬 사용 속도 및 공격 속도가 24% 추가로 증가한다.",
+      "effects": [
+        {
+          "stat_type": "스킬 사용 속도",
+          "values": {
+            "constant": "10",
+            "growth": "24"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "황폐+",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "보유한 자원이 50% 미만일 경우, 적에게 주는 피해가 12/13/14%, 추가타 확률이 7/8/9% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "0",
+            "growth": "12"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "추가타 확률",
+          "values": {
+            "constant": "0",
+            "growth": "7"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "신성한 칙령",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "아군의 체력을 회복시키면 5초 동안 공격력이 15/18/20% 증가하며 회복량이 9% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "15"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "회복력",
+          "values": {
+            "constant": "0",
+            "growth": "9"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "준비된 자",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "퀵슬롯 아이템을 사용했을 경우 15초 동안 적에게 주는 피해가 20/22/24% 증가한다. 퀵슬롯의 포션 개수가 2개 증가하며, 붕대 개수가 2개 증가한다.",
+      "effects": [
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "0",
+            "growth": "20"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "저무는 달",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "누적: 공격력과 방어력이 6/8/10% 증가한다. 전투 시작 시, 전투 종료까지 30초마다 공격력과 방어력이 추가로 2%씩 증가하며, 해당 효과는 최대 10회까지 중첩된다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "26"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "누적",
+            "category": "누적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "방어력",
+          "values": {
+            "constant": "0",
+            "growth": "26"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "누적",
+            "category": "누적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "땅울림",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "공격력이 8/10/12% 증가한다. 전투 시작 시, 공격력이 30% 증가한다. 증가한 공격력은 매 3초마다 2%씩 감소한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "8",
+            "growth": "30"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "신전기사",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "연타 피해가 23/25/27% 증가한다.\n결함: 치명타 확률이 8/7/6% 감소한다.",
+      "effects": [
+        {
+          "stat_type": "연타 피해",
+          "values": {
+            "constant": "23",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "결함",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "치명타 확률",
+          "values": {
+            "constant": "-8",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "결함",
+            "category": "결함",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "근위병",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "공격력이 23/25/27% 증가한다.\n결함: 재사용 대기 시간 회복 속도가 7/6/5% 감소한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "23",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "결함",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "쿨타임 속도",
+          "values": {
+            "constant": "-7",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "결함",
+            "category": "결함",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "침묵하는 산",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "4/3/2초 동안 이동하지 않을 경우, 공격력이 22/24/26% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "22"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "필사+",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "공격력이 10/12/% 증가한다. 체력이 50% 이하로 감소하면 20초 동안 공격력이 20% 추가로 증가한다.(재사용 대기 시간: 15초)",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "10",
+            "growth": "20"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "파멸+",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "궁극기 사용 시, 20초 동안 공격력이 25/27/% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "25"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "집정관",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "적에게 주는 피해가 23/25/27% 증가한다.\n결함: 스킬 사용 속도와 캐스팅 및 차지 속도가 8/7/5% 감소한다.",
+      "effects": [
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "23",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "결함",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "스킬 사용 속도",
+          "values": {
+            "constant": "-8",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "결함",
+            "category": "결함",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "캐스팅/차지 속도",
+          "values": {
+            "constant": "-8",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "결함",
+            "category": "결함",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "새벽별",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "누적: 스킬을 사용할 때마다 8초 동안 스킬 재사용 대기 시간 회복 속도가 3/3.3/3.6% 빨라진다.\n해당 효과는 최대 6회까지 중첩되며 지속 시간은 스택마다 개별로 가진다.",
+      "effects": [
+        {
+          "stat_type": "쿨타임 속도",
+          "values": {
+            "constant": "0",
+            "growth": "18"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "누적",
+            "category": "누적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "눈 먼 예언자",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "각성의 재사용 대기 시간이 38/39/40초 감소한다.",
+      "effects": [
+        {
+          "stat_type": "기타",
+          "values": {
+            "constant": "0",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "2",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "1",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "압도적인 힘",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "강타 피해가 6%, 공격력이 6/8/10%, 치명타 확률이 4% 증가한다. 엠블럼의 각성 효과가 활성화될 때, 20초간 이 룬으로 증가한 능력치가 두배가 된다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "6",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "4",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "1",
+            "transcendence_val": "2"
+          }
+        },
+        {
+          "stat_type": "강타 피해",
+          "values": {
+            "constant": "6",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "4",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "1",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "치명타 확률",
+          "values": {
+            "constant": "4",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "4",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "1",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "8"
+          },
+          "flags": {
+            "adoption": "4",
+            "option": "각성",
+            "category": "각성",
+            "transcendence": "1",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "강타 피해",
+          "values": {
+            "constant": "0",
+            "growth": "6"
+          },
+          "flags": {
+            "adoption": "4",
+            "option": "각성",
+            "category": "각성",
+            "transcendence": "1",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "치명타 확률",
+          "values": {
+            "constant": "0",
+            "growth": "4"
+          },
+          "flags": {
+            "adoption": "4",
+            "option": "각성",
+            "category": "각성",
+            "transcendence": "1",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "섬세한 손놀림",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "연타 피해가 6%, 공격력이 6/8/10%, 추가타 확률이 4% 증가한다. 엠블럼의 각성 효과가 활성화될 때, 20초간 이 룬으로 증가한 능력치가 두배가 된다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "6",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "연타 피해",
+          "values": {
+            "constant": "6",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "추가타 확률",
+          "values": {
+            "constant": "4",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "6"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "각성",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "연타 피해",
+          "values": {
+            "constant": "0",
+            "growth": "6"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "각성",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "추가타 확률",
+          "values": {
+            "constant": "0",
+            "growth": "4"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "각성",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "성역+",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "보호막 계열 효과가 유지되는 동안 공격력이 17/19/% 증가한다. 포션을 사용하거나 30초가 지날 때마다 (공격력×13.9%)의 피해를 흡수하는 보호막이 생성된다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "17"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "불안정한 힘",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "전투 시작 시, 적에게 주는 피해가 22/24/26% 증가한다. 브레이크 당할 경우 효과가 사라지며, 30/25/20초 후에 재활성화된다.",
+      "effects": [
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "0",
+            "growth": "22"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "고대 수호자",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "공격력이 23/25/27% 증가한다.\n결함: 이동 속도가 8/7/5% 감소한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "23",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "갈퀴발톱+",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "브레이크 스킬로 주는 피해가 24/27/30% 증가한다.\n추가로 적에게 주는 브레이크 피해가 24/27/30% 증가하며, 무방비 피해가 24/27/30% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "브레이크 스킬 피해",
+          "values": {
+            "constant": "24",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "브레이크 피해",
+          "values": {
+            "constant": "24",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "무방비 피해",
+          "values": {
+            "constant": "24",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "태양",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "3.5초마다 자신 주위 3m 범위 내의 적에게 (공격력×89/98/107%)의 피해를 준다.",
+      "effects": [
+        {
+          "stat_type": "기타",
+          "values": {
+            "constant": "0",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "싹쓸바람",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "공격 적중 시, 타겟의 위치에 회오리바람을 소환한다. 소환된 회오리바람은 주변 5m 범위 내의 적들을 중앙으로 3초 동안 끌어당기며, 매 0.5초마다 (공격력×38/42/47%)의 피해를 준다.(재사용 대기 시간: 10초)",
+      "effects": [
+        {
+          "stat_type": "기타",
+          "values": {
+            "constant": "0",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "혼돈",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "자신의 공격에 적중당한 대상이 자신으로부터 지속 피해: 화상, 지속 피해: 빙결, 지속 피해: 감전, 지속 피해: 상처, 지속 피해: 중독, 지속 피해: 절망, 지속 피해: 두려움, 지속 피해: 심판 효과를 받을 때마다 중첩을 쌓는다. 중첩이 3회 쌓일 경우, 중첩을 전부 소모하여 (공격력×102/112/122%)의 피해를 준다. 이 효과는 각 대상마다 4초에 한 번만 발동한다.",
+      "effects": [
+        {
+          "stat_type": "기타",
+          "values": {
+            "constant": "0",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "붕괴하는 별",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "자신의 공격이 적에게 적중 할 때마다 중첩을 쌓는다. 중첩이 3회 쌓일 경우, 중첩을 전부 소모하여 (공격력×51%)의 피해를 주고, 자신의 공격력을 10초 동안 10/12/% 증가시킨다. 이 효과는 각 대상마다 3초에 한 번만 발동한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "10"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "돌격대장+",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "적을 도발할 경우, 약화 효과: 방어구 파괴를 부여해 10초 동안 받는 피해를 10% 증가시키며, 자신의 공격력을 15초 동안 20/22/24% 증가시킨다.\n방어구 파괴는 중복 적용되지 않는다.",
+      "effects": [
+        {
+          "stat_type": "(적이)받는 피해",
+          "values": {
+            "constant": "0",
+            "growth": "10"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "20"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "지휘관",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "강타, 연타, 무방비, 치명타, 추가타 공격 시, 8초 동안 공격력이 4.5/5.1/5.5% 증가하며, 해당 효과는 최대 5회까지 중첩된다. 각 공격력 증가 효과는 별도의 지속 시간을 가진다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "22.5"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "응징+",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "공격력이 12/14/16% 증가한다. 자신과 전투 중인 적이 처치되었을 경우, 자신의 체력을 (공격력×24.5%)만큼 회복한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "12"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "집념+",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "캐스팅 및 차지 속도가 25%, 적에게 주는 피해가 10/12/14% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "10",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "캐스팅/차지 속도",
+          "values": {
+            "constant": "25",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "분쇄+",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "공격력이 6/7/8% 증가한다. 무방비 공격 적중 시, 10초 동안 적에게 주는 피해가 28/30/32% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "6",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "0",
+            "growth": "28"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "쌍둥이 별",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "누적 효과가 발생할 때, 추가로 한 번 더 발생한다.\n캐스팅 및 차지 속도, 스킬 사용 속도가 7/9/% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "스킬 사용 속도",
+          "values": {
+            "constant": "7",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "누적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "푸른 거목",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "축적: 스킬을 5회 사용 시, 전투 종료 시까지 스킬 피해량이 2.2/2.4/% 증가한다. 이 효과는 최대 10회까지 중첩된다.",
+      "effects": [
+        {
+          "stat_type": "스킬 피해",
+          "values": {
+            "constant": "0",
+            "growth": "22"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "축적",
+            "category": "축적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "어두운 징조",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "누적: 궁극기 사용 시, 전투가 끝날 때까지 공격력이 0.6/0.7/%, 치명타 확률이 0.6/0.7/%, 적에게 주는 피해가 0.6/0.7/% 증가한다. 이 효과는 최대 30회까지 중첩된다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "18"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "누적",
+            "category": "누적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "치명타 확률",
+          "values": {
+            "constant": "0",
+            "growth": "18"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "누적",
+            "category": "누적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "0",
+            "growth": "18"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "누적",
+            "category": "누적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "요정 무리",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "축적: 스킬을 7회 사용 시, 모든 스킬의 재사용 대기 시간이 2.1/2.3/2.5초 감소한다.(재사용 대기 시간: 3초)",
+      "effects": [
+        {
+          "stat_type": "쿨타임",
+          "values": {
+            "constant": "0",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "축적",
+            "category": "축적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "수정 꽃잎",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "축적: 치명타 공격을 6회 적중시킬 경우, 다음 공격 적중 시 (공격력×45/56/%)의 피해를 입히고, 자신의 공격력이 10초 동안 12% 증가한다.(재사용 대기 시간: 3초)",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "12"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "축적",
+            "category": "축적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "나무 사슴",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "축적: 추가타 공격을 6회 적중시킬 경우, 다음 공격 적중 시 (공격력×56/71/85%)의 피해를 입히고, 자신의 공격력이 10초 동안 12% 증가한다.(재사용 대기 시간: 4초)",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "12"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "축적",
+            "category": "축적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "에메랄드 숲",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "축적: 효과에 필요한 횟수를 누적시킬 때, 1회 추가로 누적시킨다.\n적에게 주는 피해가 10/12/16% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "10",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "축적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "불사",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "적에게 주는 피해가 18/20/22% 증가한다. 행동 불능에 이르는 공격을 1회 막아주고 체력을 대량회복한다. 이 후 3초 동안 받는 피해가 80% 감소한다. 동일한 행동 불능에 저항하는 효과와 재사용 대기 시간을 공유한다.(재사용 대기 시간: 180초)",
+      "effects": [
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "0",
+            "growth": "18"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "싸움꾼",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "자신 주변 6m 범위 내에 있는 적의 수가 많을수록, 적에게 입히는 피해가 최소 12/13/14%에서 최대 16/19/21%까지 증가한다. 적에게 받는 피해는 최소 8%에서 최대 12%까지 감소한다. 적이 3명일 때 최대 효과를 가진다.",
+      "effects": [
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "12",
+            "growth": "4"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "(내가)받는 피해",
+          "values": {
+            "constant": "-8",
+            "growth": "-4"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "약탈자",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "추가타 적중 시, 체력이 (공격력×2.4%) 회복된다.(재사용 대기 시간: 1초)\n추가타 확률이 10/12/14% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "추가타 확률",
+          "values": {
+            "constant": "10",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "원소 조화",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "공격 적중 시, 전방 10m 범위 내의 적에게 3가지 속성의 투사체를 발사하여 각각 (공격력×42/47/%)의 화염, 냉기, 번개 속성 피해를 입힌다.(재사용 대기 시간: 5초)",
+      "effects": [
+        {
+          "stat_type": "기타",
+          "values": {
+            "constant": "0",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "다가오는 죽음",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "적을 향해 느리게 날아가는 암흑 구체를 발사한다. 암흑 구체가 날아간 거리에 비례하여 최소 (공격력×117.5%) 피해를 입히고, 최대 18m 거리에서 (공격력×254%)의 피해를 입힌다.(재사용 대기 시간: 10초)",
+      "effects": [
+        {
+          "stat_type": "기타",
+          "values": {
+            "constant": "0",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "잊힌 성소",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "축적: 스킬 혹은 기본 공격을 60회 사용 시, 화염, 번개 혹은 얼음의 힘으로 스스로를 감싸 주위 2.5m 범위에 5초 동안 0.1초마다 1.5m 범위를 (공격력×15/17/18%)의 피해로 공격하는 원소 화살을 난사한다.",
+      "effects": [
+        {
+          "stat_type": "기타",
+          "values": {
+            "constant": "0",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "축적",
+            "category": "축적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "무법자",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "전투 중, 5초마다 75/80/% 확률로 5초 동안 적에게 주는 피해가 20%, 치명타 확률이 10% 증가한다.\n결함: 만약 오르지 않았을 경우, 그만큼 감소한다.",
+      "effects": [
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "0",
+            "growth": "20"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "결함",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "치명타 확률",
+          "values": {
+            "constant": "0",
+            "growth": "10"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "결함",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "0",
+            "growth": "-40"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "결함",
+            "category": "결함",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "치명타 확률",
+          "values": {
+            "constant": "0",
+            "growth": "-20"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "결함",
+            "category": "결함",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "천공의 화로",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "공격력이 10% 증가한다.\n누적: 전투 시, 5초마다 천공의 불길 효과를 얻는다. 이 효과는 최대 8회까지 중첩된다.\n궁극기 사용 시, 모든 천공의 불길을 소모하여 15초 동안 적에게 주는 피해량이 소모한 중첩 당 3.5% 증가한다.\n전투 시작 시, 2중첩을 즉시 획득한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "10",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "누적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "0",
+            "growth": "28"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "누적",
+            "category": "누적",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "사냥꾼",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "적에게 주는 피해가 10% 증가한다.\n공격 시, 대상의 체력이 80% 이상이거나 30% 이하일 경우, 10초 동안 적에게 주는 피해가 15% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "10",
+            "growth": "15"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "쐐기",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "공격 시, 대상에게 (공격력×254%)의 피해를 준다.\n추가로, 대상이 무방비 상태일 경우 대상에게 약화 효과: 방어구 파괴를 부여해 10초 동안 받는 피해를 10% 증가시킨다.(재사용 대기 시간: 10초)\n방어구 파괴는 중복 적용되지 않는다.",
+      "effects": [
+        {
+          "stat_type": "(적이)받는 피해",
+          "values": {
+            "constant": "0",
+            "growth": "10"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "기본기",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "공격력이 15/17/19% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "15",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "유성",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "공격 시, 적에게 (공격력×170.7/209.8/%)의 피해를 준다.\n보유한 모든 충전을 전력으로 변환하고, 변환된 전력 수치 × (공격력×1.78%)만큼의 피해를 추가로 준다.(재사용 대기 시간: 15초)\n100 이상의 전력을 보유한 상태에서 각성 혹은 궁극기 사용 시, 과부하 상태가 된다.\n1초마다 자신의 현재 타겟 주변 3.5m 범위 내의 적들에게 (공격력×76%)의 피해를 주는 마력포를 발사하고 100의 전력을 소모한다. 전력이 100 미만이 될 경우 즉시 과부하가 종료된다.",
+      "effects": [
+        {
+          "stat_type": "기타",
+          "values": {
+            "constant": "0",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "초신성",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "공격 시, 적에게 (공격력×76/114/%)의 피해를 주고 15초 동안 공격력이 5% 증가한다.\n보유한 모든 충전을 전력으로 변환하고, 변환된 전력 1마다 (공격력×1.01%)의 피해를 추가로 주며, 0.04%만큼 공격력이 추가로 증가한다.(재사용 대기 시간: 15초)\n각성 혹은 궁극기 사용 시, 전력을 모두 소모하여 주변 10m 범위 내의 적들에게 전력 수치 × (공격력×0.76%)의 피해를 준다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "5"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "창백한 섬광",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "공격 시, 치명타 확률이 15초 동안 8/10/% 증가한다.\n보유한 모든 충전을 전력으로 변환하고, 변환된 전력 수치 × 0.09%만큼 치명타 확률이 추가로 증가한다.(재사용 대기 시간: 15초)\n50 이상의 전력을 보유한 상태에서 각성 혹은 궁극기 사용 시, 과부하 상태가 된다.\n치명타 피해가 32% 증가하며, 1초마다 50의 전력을 소모한다. 전력이 50 미만이 될 경우, 즉시 과부하가 종료된다.",
+      "effects": [
+        {
+          "stat_type": "치명타 확률",
+          "values": {
+            "constant": "0",
+            "growth": "8"
+          },
+          "flags": {
+            "adoption": "5",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "1",
+            "transcendence_val": "2"
+          }
+        }
+      ]
+    },
+    {
+      "name": "일렁이는 불꽃",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "공격 시, 추가타 확률이 15초 동안 8/10/12% 증가한다.\n보유한 모든 충전을 전력으로 변환하고, 변환된 전력 수치 × 0.09%만큼 추가타 확률이 추가로 증가한다.(재사용 대기 시간: 15초)\n50 이상의 전력을 보유한 상태에서 각성 혹은 궁극기 사용 시, 과부하 상태가 된다.\n공격 적중 시 선행 타격의 30% 피해를 주는 추가 공격이 발생하며, 1초마다 50의 전력을 소모한다. 전력이 50 미만이 될 경우, 즉시 과부하가 종료된다.",
+      "effects": [
+        {
+          "stat_type": "추가타 확률",
+          "values": {
+            "constant": "0",
+            "growth": "8"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "울려퍼지는 천둥",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "공격 시 스킬 사용 속도, 공격 속도, 캐스팅 및 차지 속도가 15초 동안 6/8/10% 증가한다.\n보유한 모든 충전을 전력으로 변환하고 변환된 전력 수치 × 0.06%만큼 스킬 사용속도, 공격 속도, 캐스팅 및 차지 속도가 추가로 증가한다.(재사용 대기 시간: 15초)\n100 이상의 전력을 보유한 상태에서 각성 혹은 궁극기 사용 시, 과부하 상태가 된다.\n공격 적중 시, 대상 방향으로 전력을 방출하여 (공격력×76%)의 피해를 주고 100의 전력을 소모한다. 전력이 100 미만이 될 경우, 즉시 과부하가 종료된다.",
+      "effects": [
+        {
+          "stat_type": "스킬 사용 속도",
+          "values": {
+            "constant": "0",
+            "growth": "6"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "캐스팅/차지 속도",
+          "values": {
+            "constant": "0",
+            "growth": "6"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "번개 채찍",
+      "tier": "시즌1 전설",
+      "slot": "armor",
+      "description": "공격 시, 적에게 주는 피해가 15초 동안 9/11/% 증가한다.\n보유한 모든 충전을 전력으로 변환하고 변환된 전력 수치 × 0.09%만큼 적에게 주는 피해가 추가로 증가한다.(재사용 대기 시간: 15초)\n100 이상의 전력을 보유한 상태에서 각성 혹은 궁극기 사용 시, 과부하 상태가 된다.\n공격 적중 시, 대상 방향으로 사슬을 휘둘러 (공격력×76%)의 피해를 주고 100의 전력을 소모한다. 전력이 100 미만이 될 경우, 즉시 과부하가 종료된다.",
+      "effects": [
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "0",
+            "growth": "9"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "닫힌 운명",
+      "tier": "시즌1 신화",
+      "slot": "armor",
+      "description": "공격 적중시, 결계를 생성하여 타겟과 그 주변에 (공격력×68%)의 피해를 입히고, 약화 효과: 방어구 파괴를 부여해 10초 동안 받는 피해를 10% 증가시킨다. 결계는 1, 2, 4겹으로 늘어나며 최대치까지 늘어난 이후에는 다시 1겹으로 돌아온다.(재사용 대기 시간: 5초)방어구 파괴는 중복 적용되지 않는다.",
+      "effects": [
+        {
+          "stat_type": "(적이)받는 피해",
+          "values": {
+            "constant": "0",
+            "growth": "10"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "검게 물든 후광",
+      "tier": "시즌1 신화",
+      "slot": "armor",
+      "description": "받는 피해가 15%, 적에게 주는 피해가 15% 증가한다. 아군을 회복시키거나 물약을 사용하면 15초 동안 받는 피해 증가 효과가 무효화된다. \n장비를 +10, +15 강화 시 각각 적에게 주는 피해가 6% 추가로 증가한다.",
+      "effects": [
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "27",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "(내가)받는 피해",
+          "values": {
+            "constant": "15",
+            "growth": "-15"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "그림자로 엮은 회랑",
+      "tier": "시즌1 신화",
+      "slot": "armor",
+      "description": "전투 중 각각 2초, 3초, 4초마다 마력 사슬을 발사해 전방의 적들에게 (공격력×25%)의 피해를 준다. 장비를 +15 강화 시, 5초마다 발사되는 마력 사슬이 추가된다.",
+      "effects": [
+        {
+          "stat_type": "기타",
+          "values": {
+            "constant": "0",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "바스러지는 빛",
+      "tier": "시즌1 신화",
+      "slot": "armor",
+      "description": "스킬을 사용할 때마다 8초 동안 공격력이 5.5% 증가한다. 해당 효과는 최대 5회까지 중첩되며 지속 시간은 스택마다 개별로 가진다.\n장비를 +15 강화 시, 50% 확률로 추가 중첩이 발생한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "27.5"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "세상을 삼키는 악의",
+      "tier": "시즌1 신화",
+      "slot": "armor",
+      "description": "원소 지속 피해를 보유한 적에게 주는 피해가 16% 증가하고, 적에게 주는 무방비 피해가 16% 증가한다.\n장비를 +10, +15 강화 시 각각 적에게 주는 피해가 3% 추가로 증가한다.",
+      "effects": [
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "0",
+            "growth": "22"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "무방비 피해",
+          "values": {
+            "constant": "0",
+            "growth": "16"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "이름 없는 혼돈",
+      "tier": "시즌1 신화",
+      "slot": "armor",
+      "description": "전투 중, 5초마다 5초 동안 공격력이 10%~30% 증가한다. 장비를 +15 강화 시, 공격력 증가 최대치가 40%로 변경된다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "40"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "영원",
+      "tier": "시즌1 신화",
+      "slot": "armor",
+      "description": "모든 결함 효과를 제거한다.\n스킬 피해 및 기본 공격 피해량이 15% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "스킬 피해",
+          "values": {
+            "constant": "10",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "쏟아지는 별",
+      "tier": "시즌1 신화",
+      "slot": "armor",
+      "description": "전투 중 15초마다 자신 주위 15m 범위 내의 무작위 적을 섬광으로 타격하여 대상에게 (공격력×315%)의 피해를 입히고 대상 주위 2m 범위 내의 대상에게 (공격력×45%)의 피해를 입힌다.\n궁극기를 사용했을 경우, 자신 주위 15m 범위 내의 모든 적들을 섬광으로 타격한다.",
+      "effects": [
+        {
+          "stat_type": "기타",
+          "values": {
+            "constant": "0",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    }
+  ],
+  "emblem": [
+    {
+      "name": "현란함",
+      "tier": "시즌0 전설",
+      "slot": "emblem",
+      "description": "치명타 확률이 10% 증가하며, 적에게 주는 치명타 피해가 30% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "치명타 확률",
+          "values": {
+            "constant": "10",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "치명타 피해",
+          "values": {
+            "constant": "30",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "지혜로움",
+      "tier": "시즌0 전설",
+      "slot": "emblem",
+      "description": "모든 스킬의 재사용 대기 시간이 18% 감소한다.",
+      "effects": [
+        {
+          "stat_type": "쿨타임",
+          "values": {
+            "constant": "-18",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "무자비한 포식자",
+      "tier": "시즌1 전설",
+      "slot": "emblem",
+      "description": "무방비 공격 시 각성하여 20초 동안 적에게 주는 스킬 피해가 55/55/65% 증가하며, 모든 스킬의 재사용 대기 시간이 초기화 된다.(재사용 대기 시간: 90초)\n상시 효과: 적에게 주는 피해가 21/23/23% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "21",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "0",
+            "growth": "55"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "각성",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "순수한 힘",
+      "tier": "시즌1 전설",
+      "slot": "emblem",
+      "description": "궁극기 사용 시, 30초 동안 적에게 주는 피해가 30/32/34% 증가한다.\n궁극기 게이지 획득량이 20% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "0",
+            "growth": "30"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "부서진 하늘",
+      "tier": "시즌1 전설",
+      "slot": "emblem",
+      "description": "공격 시 50% 확률로 각성하여 20초 동안 연타 피해가 60/60/75% 증가한다. 또한, 지속 시간 동안 공격 적중 시 (공격력×29%)의 추가 피해를 입히며 이 효과는 0.5초마다 한 번만 적용된다.(재사용 대기 시간: 90초)\n상시 효과: 연타 피해가 8/10/10%, 재사용 대기 시간 회복 속도가 8/10/10% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "연타 피해",
+          "values": {
+            "constant": "8",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "쿨타임 속도",
+          "values": {
+            "constant": "8",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "연타 피해",
+          "values": {
+            "constant": "0",
+            "growth": "60"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "각성",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "인도하는 빛",
+      "tier": "시즌1 전설",
+      "slot": "emblem",
+      "description": "궁극기 사용 시, 자신과 주위 15m 내의 아군에게 15초 동안 8/10/12%의 공격력 증가 효과를 부여한다.\n아군 회복 시, 15초 동안 자신의 공격력이 20% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "28"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "대마법사",
+      "tier": "시즌1 전설",
+      "slot": "emblem",
+      "description": "공격 시 50% 확률로 각성하여 20초 동안 공격력이 45/55/55%, 스킬 사용 속도, 캐스팅 및 차지 속도가 25% 증가한다.(재사용 대기 시간: 90초)\n상시 효과: 스킬 사용 속도, 캐스팅 및 차지 속도가 14/14/16%, 캐스팅 및 차지 스킬의 피해량이 14/14/16% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "스킬 사용 속도",
+          "values": {
+            "constant": "14",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "캐스팅/차지 속도",
+          "values": {
+            "constant": "14",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "차지 스킬 피해",
+          "values": {
+            "constant": "14",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "45"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "각성",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "스킬 사용 속도",
+          "values": {
+            "constant": "0",
+            "growth": "25"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "각성",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "캐스팅/차지 속도",
+          "values": {
+            "constant": "0",
+            "growth": "25"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "각성",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "흩날리는 검",
+      "tier": "시즌1 전설",
+      "slot": "emblem",
+      "description": "공격 시 50% 확률로 각성하여 35초 동안 공격력이 55/60/60%, 공격 속도가 20%, 기본 공격의 추가타 확률이 20% 증가한다.(재사용 대기 시간: 90초)\n상시 효과: 공격 속도가 24%, 기본 공격 추가타 확률이 24% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "공격력",
+          "values": {
+            "constant": "0",
+            "growth": "55"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "각성",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "산맥군주",
+      "tier": "시즌1 전설",
+      "slot": "emblem",
+      "description": "공격 시 50% 확률로 각성하여 20초 동안 강타 피해가 60/60/75% 증가한다. 또한 지속 시간 동안 공격 적중 시 대상과 3m 범위 내의 적들에게 (공격력×155%)의 추가 피해를 입히며 이 효과는 3초마다 한 번만 적용된다.(재사용 대기 시간: 90초)\n상시 효과: 강타 피해가 8/10/10%, 스킬 사용 속도가 8/10/10% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "강타 피해",
+          "values": {
+            "constant": "8",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "스킬 사용 속도",
+          "values": {
+            "constant": "8",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "강타 피해",
+          "values": {
+            "constant": "0",
+            "growth": "60"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "각성",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "아득한 빛",
+      "tier": "시즌1 전설",
+      "slot": "emblem",
+      "description": "공격 시 50% 확률로 각성하여 20초 동안 치명타 확률이 20%, 치명타 피해량이 50/50/62% 증가한다.(재사용 대기 시간: 90초)\n상시 효과: 치명타 확률이 5%, 치명타 피해량이 10%, 적에게 주는 피해가 5/7/7% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "치명타 확률",
+          "values": {
+            "constant": "5",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "TRUE",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "X",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "치명타 피해",
+          "values": {
+            "constant": "10",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "TRUE",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "X",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "주는 피해",
+          "values": {
+            "constant": "5",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "TRUE",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "X",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "치명타 확률",
+          "values": {
+            "constant": "0",
+            "growth": "20"
+          },
+          "flags": {
+            "adoption": "TRUE",
+            "option": "각성",
+            "category": "각성",
+            "transcendence": "X",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "치명타 피해",
+          "values": {
+            "constant": "0",
+            "growth": "50"
+          },
+          "flags": {
+            "adoption": "TRUE",
+            "option": "각성",
+            "category": "각성",
+            "transcendence": "X",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "갈라진 땅",
+      "tier": "시즌1 전설",
+      "slot": "emblem",
+      "description": "공격 시 50% 확률로 각성하여 35초 동안 추가타 확률이 30% 증가하며, 추가타 적중 시 다음 공격은 선행 타격의 18/18/23% 만큼의 피해를 주는 추가 공격이 발생한다.(재사용 대기 시간: 90초)\n상시 효과: 추가타 확률이 12/14/14% 증가한다.",
+      "effects": [
+        {
+          "stat_type": "추가타 확률",
+          "values": {
+            "constant": "12",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        },
+        {
+          "stat_type": "추가타 확률",
+          "values": {
+            "constant": "0",
+            "growth": "30"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "각성",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "녹아내린 대지",
+      "tier": "시즌1 전설",
+      "slot": "emblem",
+      "description": "공격 시 50% 확률로 각성하여 20초 동안 상시 효과의 발동 주기가 1초로 변화하며, 범위 내 모든 적에게 (공격력×n%)의 피해를 준다.(재사용 대기 시간: 90초)\n상시 효과: 전투 중, 5초마다 5m 범위 내의 가장 가까운 대상에게 (공격력×n%)의 피해를 준다.",
+      "effects": [
+        {
+          "stat_type": "기타",
+          "values": {
+            "constant": "0",
+            "growth": "55"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "각성",
+            "category": "각성",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    }
+  ],
+  "accessory": [
+    {
+      "name": "결속",
+      "tier": "시즌1 전설",
+      "slot": "accessory",
+      "description": "사제의 서먼 링커 스킬에 변화를 준다. 링커가 연결대상에 따른 회복과 피해를 주면 신성력을 일부 회복한다.\n서먼 링커가 아닌 다른 스킬을 사용할 경우, 일정 확률로 링커가 재발동된다.",
+      "effects": [
+        {
+          "stat_type": "최종데미지",
+          "values": {
+            "constant": "0",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "2",
+            "option": "X",
+            "category": "X",
+            "transcendence": "1",
+            "transcendence_val": "1.5"
+          }
+        }
+      ]
+    },
+    {
+      "name": "날개",
+      "tier": "시즌1 전설",
+      "slot": "accessory",
+      "description": "사제의 디바인 윙 스킬을 헤븐즈 도어로 교체한다. 새 형상의 빛무리를 주기적으로 퍼트리는 마법진을 소환한다.\n대상에 따라 회복과 피해를 주고, 신성력을 소모하면 회복량이 증가한다.",
+      "effects": [
+        {
+          "stat_type": "최종데미지",
+          "values": {
+            "constant": "0",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "수레바퀴",
+      "tier": "시즌1 전설",
+      "slot": "accessory",
+      "description": "사제의 켈틱 크로스 스킬에 변화를 준다. 켈틱 크로스의 공격 성공 시, 심볼의 이동 속도가 느려지며 지속 시간이 증가한다.",
+      "effects": [
+        {
+          "stat_type": "최종데미지",
+          "values": {
+            "constant": "0",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "1",
+            "option": "X",
+            "category": "X",
+            "transcendence": "1",
+            "transcendence_val": "1.5"
+          }
+        }
+      ]
+    },
+    {
+      "name": "희생",
+      "tier": "시즌1 전설",
+      "slot": "accessory",
+      "description": "사제의 생츄어리 스킬에 변화를 준다. 두 배의 체력을 소모하여, 두 배로 강화된 성역을 생성한다.",
+      "effects": [
+        {
+          "stat_type": "최종데미지",
+          "values": {
+            "constant": "0",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "성전",
+      "tier": "시즌1 전설",
+      "slot": "accessory",
+      "description": "사제의 생츄어리 스킬에 변화를 준다. 성역 안에 있는 동안 사제의 모든 스킬 위력이 증가한다.",
+      "effects": [
+        {
+          "stat_type": "최종데미지",
+          "values": {
+            "constant": "0",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "3",
+            "option": "X",
+            "category": "X",
+            "transcendence": "1",
+            "transcendence_val": "1.5"
+          }
+        }
+      ]
+    },
+    {
+      "name": "빛줄기",
+      "tier": "시즌1 전설",
+      "slot": "accessory",
+      "description": "사제의 홀리 스피어 스킬을 피어싱 라이트로 교체한다. 작은 빛의 창을 쏘아 직선상의 모든 적을 꿰뚫는다.",
+      "effects": [
+        {
+          "stat_type": "최종데미지",
+          "values": {
+            "constant": "0",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "축복",
+      "tier": "시즌1 전설",
+      "slot": "accessory",
+      "description": "",
+      "effects": [
+        {
+          "stat_type": "최종데미지",
+          "values": {
+            "constant": "0",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    },
+    {
+      "name": "심판",
+      "tier": "시즌1 전설",
+      "slot": "accessory",
+      "description": "",
+      "effects": [
+        {
+          "stat_type": "최종데미지",
+          "values": {
+            "constant": "0",
+            "growth": "0"
+          },
+          "flags": {
+            "adoption": "FALSE",
+            "option": "X",
+            "category": "X",
+            "transcendence": "FALSE",
+            "transcendence_val": "0"
+          }
+        }
+      ]
+    }
+  ]
+}
